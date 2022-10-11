@@ -9,3 +9,11 @@ body {
 card-title{
   font-size: 50px;
 }
+
+img {
+  float: right;
+}
+
+p  {
+  float: right;
+}
